@@ -1,10 +1,11 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center">Frontend developer on React Native</h3>
 
--Currently I am in Russia. But soon I am moving to Slovenia. 🌱 
--Most of my career I worked for start-ups. So I had to learn a lot on my own.
--My hobbies are drawing, yoga/stretching and drinking coffee in cafe. Also I like traveling so I would not mind moving to another country.
-
+Currently I am in Russia. But soon I am moving to Slovenia 🇸🇮 <br />
+Most of my career I worked for start-ups. So I had to learn a lot on my own.<br />
+My hobbies are drawing, yoga/stretching and drinking coffee in cafe. Also I like traveling so I would not mind moving to another country.<br />
+<br />
+<h3 align="center">📱 I’m currently working on <a href="https://familami.com/">Familami</a> mobile app</a></h3>
 <!--
 **MarieOsinceva/MarieOsinceva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
