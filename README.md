@@ -19,12 +19,11 @@ JavaScript&nbsp;&nbsp;
 HTML/CSS&nbsp;&nbsp;
 ⚫️&nbsp;&nbsp;
 Git&nbsp;&nbsp;
-⚫️&nbsp;&nbsp;<br />
+⚫️&nbsp;&nbsp;SQL<br />
 Autotesting&nbsp;&nbsp;
 ⚫️&nbsp;&nbsp;
 Manual testing&nbsp;&nbsp;
-⚫️&nbsp;&nbsp;
-SQL
+
   </p>
 <br />
 <h3 align="center">📱 I’m currently working on <a href="https://familami.com/">Familami</a> mobile app</a></h3>
