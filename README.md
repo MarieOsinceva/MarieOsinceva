@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently I am in Russia. But soon I am moving to Slovenia. 🌱
+Most of my career I worked for start-ups. So I had to learn a lot on my own. 
+My hobbies are drawing, yoga/stretching and drinking coffee in cafe. Also I like traveling so I would not mind moving to another country. 
+
 <!--
 **MarieOsinceva/MarieOsinceva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
