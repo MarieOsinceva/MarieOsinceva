@@ -19,7 +19,7 @@ JavaScript&nbsp;&nbsp;
 HTML/CSS&nbsp;&nbsp;
 ⚫️&nbsp;&nbsp;
 Git&nbsp;&nbsp;
-⚫️&nbsp;&nbsp;
+⚫️&nbsp;&nbsp;<br />
 Autotesting&nbsp;&nbsp;
 ⚫️&nbsp;&nbsp;
 Manual testing&nbsp;&nbsp;
