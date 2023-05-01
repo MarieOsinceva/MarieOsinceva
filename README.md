@@ -26,7 +26,7 @@ Manual testing&nbsp;&nbsp;
 
   </p>
 <br />
-<h3 align="center">📱 I’m currently working on <a href="https://familami.com/">Familami</a> mobile app</a></h3>
+<h3 align="center">📱 My last project was <a href="https://familami.com/">Familami</a> mobile app</a></h3>
 <!--
 **MarieOsinceva/MarieOsinceva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
